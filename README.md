@@ -1,0 +1,2 @@
+# comment
+blog_comment
